@@ -3,8 +3,8 @@
 
 ###########################################################################################################
 # Conection
-setwd("C:/Users/PCPC/Desktop/Exploratory Data Analysis/Projekt do 22/exdata-data-NEI_data")
-getwd()
+#setwd("C:/Users/PCPC/Desktop/Exploratory Data Analysis/Projekt do 22/exdata-data-NEI_data")
+#getwd()
 
 ###########################################################################################################
 
